@@ -6,6 +6,7 @@ import "./Navbar.css"
     return (
      <>
      <div className="Nav">
+      <span className="menu">Deserts🍫</span>
       <a href="/" className="nav-menu">Home</a>
       <a href="/about" className="nav-menu">About</a>
       <a href="/contact" className="nav-menu">Contact</a>
