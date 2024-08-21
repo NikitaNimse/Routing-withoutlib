@@ -1,9 +1,9 @@
 import ReactDOM from "react-dom/client";
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
-import Home from "./views/Home/Home"
-import About from "./views/About/About"
-import Contact from "./views/Contact/Contact"
+import Home from "./Views/Home/Home"
+import About from "./Views/About/About"
+import Contact from "./Views/Contact/Contact"
 
 
 const Path =window.location.pathname;
